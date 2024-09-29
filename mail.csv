@@ -1,0 +1,6 @@
+id,email_text,spam
+1,"""Dear Customer, Your account has been compromised. Click here to reset password.""",1
+2,"""Hi, I'm interested in your product. Can you send me more information?""",0
+3,"""Make Rs.10,000 in one week! No experience necessary. Click link to learn more.""",1
+4,"""Your order has been shipped. Track your package here.""",0
+5,"""Free trial offer! Get 30 days of unlimited access to our software.""",1
